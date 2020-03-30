@@ -1,0 +1,9 @@
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\Microsoft.Office.Interop.Word.dll
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\stdole.dll
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

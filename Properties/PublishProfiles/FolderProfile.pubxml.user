@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\wangzhe18\source\repos\WebApplication2\WebApplication2\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Office.Interop.Word.dll">
+      <publishTime>03/10/2016 16:19:48</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>05/17/2019 16:21:20</publishTime>
+    </File>
+    <File Include="bin/WebApplication2.dll">
+      <publishTime>03/29/2020 16:39:35</publishTime>
+    </File>
+    <File Include="bin/WebApplication2.pdb">
+      <publishTime>03/29/2020 16:39:35</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>03/28/2020 16:48:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/28/2020 18:00:04</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>03/28/2020 16:45:07</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>03/29/2020 16:39:11</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
